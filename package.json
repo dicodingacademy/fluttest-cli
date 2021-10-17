@@ -1,0 +1,38 @@
+{
+  "name": "@dicodingacademy/fluttest",
+  "version": "0.0.1",
+  "description": "A awesome nodejs cli for running test in flutter",
+  "main": "src/cli.js",
+  "keywords": [
+    "node",
+    "awesome",
+    "cli"
+  ],
+  "bin": {
+    "fluttest": "src/cli.js"
+  },
+  "author": "Alfian Yusuf Abdullah <alfianyabdullah@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicodingacademy/fluttest-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dicodingacademy/fluttest-cli/issues"
+  },
+  "homepage": "https://github.com/dicodingacademy/fluttest-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "cli-spinners": "^2.6.1",
+    "cli-table": "^0.3.6",
+    "commander": "^8.2.0",
+    "dom-parser": "^0.1.6",
+    "glob": "^7.2.0",
+    "lcov-parse": "^1.0.0",
+    "log-update": "^4.0.0",
+    "pretty-cli": "^0.0.14",
+    "tty-table": "^4.1.5",
+    "xml-js": "^1.6.11"
+  }
+}

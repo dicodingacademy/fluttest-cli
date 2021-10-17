@@ -1,6 +1,8 @@
 # fluttest
 Run Flutter test on interactive mode :tada:
 
+> Before using this tools, be sure you already install **tojunit** as a global package. You can read that on this [link](https://pub.dev/packages/junitreport/install).
+
 ## Usage
 
 Install:
@@ -8,12 +10,12 @@ Install:
 npm install @dicodingacademy/fluttest -g
 ```
 
-for running all test in your project, run this command
+To running all test in your project, run this command
 ```sh
 fluttest --all
 ```
 
-Run single test file? Do this
+Run single test file? Do with this command
 ```sh
 fluttest --source file_test.dart
 ```

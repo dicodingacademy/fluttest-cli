@@ -20,4 +20,11 @@ fluttest --source file_test.dart
 
 ## Test Result
 
--
+
+All test result
+
+<img width="600" src="https://github.com/dicodingacademy/fluttest-cli/raw/master/preview/test_all.gif">
+
+Single test result
+
+<img width="600" src="https://github.com/dicodingacademy/fluttest-cli/raw/master/preview/test_single.gif">

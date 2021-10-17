@@ -1,6 +1,6 @@
 {
   "name": "@dicodingacademy/fluttest",
-  "version": "0.0.3",
+  "version": "0.0.3-1",
   "description": "A awesome nodejs cli for running test in flutter",
   "main": "src/cli.js",
   "keywords": [
@@ -25,7 +25,6 @@
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
     "cli-spinners": "^2.6.1",
-    "cli-table": "^0.3.6",
     "commander": "^8.2.0",
     "dom-parser": "^0.1.6",
     "glob": "^7.2.0",

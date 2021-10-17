@@ -1,5 +1,5 @@
 {
-  "name": "@dicodingacademy/fluttest",
+  "name": "fluttest",
   "version": "0.0.1",
   "description": "A awesome nodejs cli for running test in flutter",
   "main": "src/cli.js",

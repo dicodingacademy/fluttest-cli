@@ -92,7 +92,7 @@ const runSingleTest = async (source) => {
 
 const doTest = () => {
 
-    program.version('0.0.1')
+    program.version('0.0.5')
     program
         .option('-a, --all', 'Run all testing in project')
         .option('-s, --source <testfilename>', 'Run single testing by argument. Just give me the name of test file and i will find and run it for you')

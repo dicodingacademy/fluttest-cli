@@ -1,6 +1,6 @@
 {
   "name": "@dicodingacademy/fluttest",
-  "version": "0.0.3-1",
+  "version": "0.0.4",
   "description": "A awesome nodejs cli for running test in flutter",
   "main": "src/cli.js",
   "keywords": [

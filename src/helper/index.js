@@ -3,7 +3,7 @@ const glob = require("glob")
 const chalk = require("chalk")
 
 module.exports.commandExecutors = (cmd) => {
-    return new Promise((resolve, _) => {
+    return new Promise((resolve, rejects) => {
         exec(cmd, (error, stdout, stderr) => {
             if (error) {
                 rejects(stderr)
